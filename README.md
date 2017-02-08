@@ -1,1 +1,1 @@
-# wordcamp-mu-plugins
+# WordCamp mu-plugins
